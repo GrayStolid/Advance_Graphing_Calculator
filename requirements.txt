@@ -1,0 +1,9 @@
+vosk
+tesserocr
+pillow
+customtkinter
+matplotlib
+numpy
+
+
+
